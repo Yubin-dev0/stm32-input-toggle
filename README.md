@@ -56,7 +56,7 @@ while (1) {
 
 &nbsp; HAL\_Delay(1);
 
-}
+} ```
 
 
 
@@ -146,7 +146,7 @@ while (1) {
 
 &nbsp; HAL\_Delay(1);
 
-}
+} ```
 
 
 
