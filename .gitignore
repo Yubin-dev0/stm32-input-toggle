@@ -1,0 +1,22 @@
+# Build outputs
+**/Debug/
+**/Release/
+**/*.o
+**/*.elf
+**/*.map
+**/*.lst
+**/*.bin
+**/*.hex
+
+# Cube / IDE
+**/.settings/
+**/.mxproject
+**/.loadfile
+**/.externalToolBuilders/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Logs
+**/*.log
